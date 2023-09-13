@@ -1,0 +1,97 @@
+
+.form_div {
+    margin-top: 250px;
+  background: rgba(163, 8, 129, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(8, 132, 163, 0.3);
+}
+.bgc_holder{
+    background-image: url('../IMAGES/business-5475661_1920.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+.holder{
+  background-image: url('../IMAGES/olena-kamenetska-kQ3JTemZo1E-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+ min-height:100vh ; 
+}
+.signin{
+  margin-top: 200px;
+/* From https://css.glass */
+background: rgba(70, 82, 91, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(70, 82, 91, 0.3);
+width: 100%;
+}
+.chat-holder{
+ /* From https://css.glass */
+background-image: url(https://img.freepik.com/free-vector/romantic-background-luxury-red-satin-wavy-crimson-silk-fabric_1441-3491.jpg?w=740&t=st=1694551940~exp=1694552540~hmac=871fff666595f2b84b300acd1ebe7208c1408a065346951ef840d4a119a550eb);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 100vh;
+position: relative;
+}
+.text-div{
+  padding: 10px;
+  color:  #f3eff7;
+  background-color:#e938e0;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.send_button{
+  height: 35px;
+  margin-left: 5px;
+  position: absolute;
+  bottom: -2px;
+  right: 5px;
+  /* background-color:#f729d4 ; */
+  color: white;
+  border-bottom: #e938e0;
+
+}
+
+
+.id_head{
+  background-color: #f729d4;
+  color: white;
+  text-align: center;
+  height: 70px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.sticky-input{
+  position: absolute ;
+  bottom: 0;
+  width: 94%;
+  margin-right: 5px;
+  background-color: transparent;
+  border-left-color:#e938e0!important;
+  border-top-color: #e938e0 !important;
+  border-bottom-color: #e938e0 !important;
+  border-color: transparent;
+  color: #f3eff7;
+}
+.sticky-input:focus{
+ outline: 0;
+}
+@media screen and (max-width:720px) {
+  .sticky-input{
+    width: 80%;
+  }
+}
