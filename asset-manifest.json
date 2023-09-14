@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Group-Chat-App/static/css/main.905127f6.css",
-    "main.js": "/Group-Chat-App/static/js/main.773a2f89.js",
+    "main.css": "/Group-Chat-App/static/css/main.1fa37a4a.css",
+    "main.js": "/Group-Chat-App/static/js/main.9ff086df.js",
     "static/media/olena-kamenetska-kQ3JTemZo1E-unsplash.jpg": "/Group-Chat-App/static/media/olena-kamenetska-kQ3JTemZo1E-unsplash.667c309b7c46533e6cba.jpg",
     "static/media/business-5475661_1920.jpg": "/Group-Chat-App/static/media/business-5475661_1920.4499166af9efa352f3bb.jpg",
     "index.html": "/Group-Chat-App/index.html",
-    "main.905127f6.css.map": "/Group-Chat-App/static/css/main.905127f6.css.map",
-    "main.773a2f89.js.map": "/Group-Chat-App/static/js/main.773a2f89.js.map"
+    "main.1fa37a4a.css.map": "/Group-Chat-App/static/css/main.1fa37a4a.css.map",
+    "main.9ff086df.js.map": "/Group-Chat-App/static/js/main.9ff086df.js.map"
   },
   "entrypoints": [
-    "static/css/main.905127f6.css",
-    "static/js/main.773a2f89.js"
+    "static/css/main.1fa37a4a.css",
+    "static/js/main.9ff086df.js"
   ]
 }
